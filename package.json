@@ -1,0 +1,20 @@
+{
+  "name": "jvc-tv-api",
+  "description": "Simple API for interacting with JVC smart TVs",
+  "version": "1.0.0",
+  "dependencies": {
+    "fast-xml-parser": "^3.12.13",
+    "lodash.fill": "^3.4.0",
+    "lodash.get": "^4.4.2",
+    "node-ssdp": "^4.0.0",
+    "node-wol": "^0.1.1",
+    "superagent": "^4.1.0",
+    "wol": "^1.0.5",
+    "xml": "^1.0.1"
+  },
+  "private": true,
+  "main": "index.js",
+  "repository": "https://github.com/jwarby/jvc-tv-api",
+  "author": "James Warwood <warwood.aj@gmail.com>",
+  "license": "MIT"
+}
